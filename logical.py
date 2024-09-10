@@ -1,8 +1,8 @@
 
-#Prompt the user for two distinct integers
+#Prompt the user for two different numebers
 
-num1 = int(input("Enter an integer: "))
-num2 = int(input("Enter another integer: "))
+num1 = int(input("Enter an Number: "))
+num2 = int(input("Enter another Number: "))
     
 #Logical comparisons and displaying results
 
