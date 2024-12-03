@@ -36,5 +36,4 @@ def main():
     except ValueError:
         print("Please enter numbers only.")
 
-if __name__ == "__main__":
     main()
